@@ -57,14 +57,14 @@ console.log(keyPressed);
 	{
 		block_x = 600;
 		new_image('pr.png')
-		console.log("r")
+		console.log("p")
 		// upload pink ranger
 	}
 	if(keyPressed == '66')
 	{
 		block_x = 700;
 		new_image('br.png')
-		console.log("r")
+		console.log("b")
 	// upload blue ranger
 	}
 	
